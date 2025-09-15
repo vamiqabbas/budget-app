@@ -1,0 +1,62 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.heading {
+  font-size: 24px;
+  margin-bottom: 16px;
+  color: #333;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+.form input {
+  margin-right: 8px;
+  padding: 6px;
+}
+
+.form button {
+  padding: 6px 12px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.table th {
+  background-color: #f4f4f4;
+}
+
+.deleteBtn {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 4px 8px;
+  cursor: pointer;
+}
+.analytics {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  background-color: #fafafa;
+}
+.charts {
+  margin-top: 30px;
+}
+
+.charts h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #333;
+}
